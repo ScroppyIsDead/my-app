@@ -42,8 +42,7 @@ const page = ({}) => {
           and build amazing things for the web. I'm always looking to expand my
           skillset. When I'm not coding, I enjoy Playing Video Games and hanging
           out with my friends and family. I'm excited to see what the future
-          holds in the world of web development, and I'm eager to be a part of
-          it.
+          holds in the world of development and I'm eager to be a part of it.
         </p>
         <div className="bg-white rounded-3xl m-4 flex flex-col">
           <div className="bg white text-center rounded-3xl border-2 rounded-b-none h-full w-full">
